@@ -2,6 +2,7 @@
 I'm a Passionate frontend developer with experience creating attractive and functional web interfaces.
 
 **My Skills** 💻
+
 Languages:  JavaScript.
 Web Development: React, TypeScript, Styled Components, Redux, Tailwind, API's, React-Query, Axios, Zustand.
 Frameworks: Next.js.
