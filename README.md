@@ -1,4 +1,4 @@
-# Hi, I'm Brayan Ccari! 👋
+[# Hi, I'm Brayan Ccari! 👋](https://brayan-ccari.vercel.app/)
 I'm a Passionate frontend developer with experience creating attractive and functional web interfaces.
 
 **My Skills** 💻
@@ -20,7 +20,7 @@ I love connecting with fellow developers and learners. Feel free to reach out to
 Languages and Tools:
  react git css3 html5 javascript nextjs figma tailwind
  
-![Captura de pantalla 2024-01-25 192715](https://github.com/BrayanCcLindo/brayancclindo/assets/114783451/600cf2ea-d473-4310-a1a5-c3e4a1f35df6)
+
 
 <!--
 **BrayanCcLindo/brayancclindo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
