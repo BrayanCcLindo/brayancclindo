@@ -7,14 +7,14 @@ Web Development: React, TypeScript, Styled Components, Redux, Tailwind, API's, R
 Frameworks: Next.js.
 Databases & Others :, Github, Git.
 
-👨‍💻 All of my projects are available at my portafolio [https://portafolio-anderdev.vercel.app/](https://brayan-ccari.vercel.app/)
+👨‍💻 All of my projects are available at my portafolio [https://brayan-ccari.vercel.app//](https://brayan-ccari.vercel.app/)
 
 📫 How to reach me brayancclindo@gmail.com
 
 Connect with me:
 I love connecting with fellow developers and learners. Feel free to reach out to me on these platforms:
 
-[https://www.linkedin.com/in/anderson-marcelo-herrera-2a898a250/](https://www.linkedin.com/in/brayan-ccari/)
+[https://www.linkedin.com/in/brayan-ccari//](https://www.linkedin.com/in/brayan-ccari/)
 
 Languages and Tools:
  react git css3 html5 javascript nextjs figma tailwind
