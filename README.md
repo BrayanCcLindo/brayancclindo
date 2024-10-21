@@ -1,14 +1,5 @@
 <h1>Hi, I'm Brayan Ccari 👋</h1> 
-## Instrucciones de inicialización
 
-1.  **Clonar el repositorio**  
-    Ejecuta el siguiente comando en tu terminal para clonar el repositorio:
-
-    ```bash
-    git clone https://github.com/tu-usuario/tu-proyecto.git
-    cd tu-proyecto
-
-    ```
 <h3>I'm a Passionate frontend developer with experience creating attractive and functional web interfaces.</h3>
 
  
